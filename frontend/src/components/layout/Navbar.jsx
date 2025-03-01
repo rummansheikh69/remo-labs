@@ -95,10 +95,10 @@ function Navbar() {
             roadmap
           </Link> */}
               <Link
-                to="/whitepaper"
+                to="/roadmap"
                 className=" text-text hover:text-blue-400 transition"
               >
-                github
+                roadmap
               </Link>
             </div>
           </ul>
