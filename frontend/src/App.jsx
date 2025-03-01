@@ -11,7 +11,10 @@ function App() {
   return (
     <div
       className="bg-cover bg-center bg-fixed"
-      style={{ backgroundImage: "url('/bg.png')" }}
+      style={{
+        backgroundImage:
+          "url('https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/pwfrfz0yoldcuxsmjerv')",
+      }}
     >
       <Routes>
         <Route path="/" element={<Home />} />
