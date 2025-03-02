@@ -60,13 +60,13 @@ function Navbar() {
       <div className="drawer drawer-end">
         <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
 
-        <div className="drawer-side">
+        <div className="drawer-side ">
           <label
             htmlFor="my-drawer-4"
             aria-label="close sidebar"
             className="drawer-overlay"
           ></label>
-          <ul className="menu bg-base-200 text-base-content min-h-full w-52 p-4">
+          <ul className="menu  bg-main text-base-content min-h-full w-52 p-4">
             {/* Sidebar content here */}
             <div className=" flex flex-col gap-3">
               <a

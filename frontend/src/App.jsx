@@ -10,7 +10,7 @@ import Roadmap from "./pages/Roadmap";
 function App() {
   return (
     <div
-      className="bg-cover bg-center bg-fixed"
+      className="bg-cover bg-center bg-fixed text-text"
       style={{
         backgroundImage:
           "url('https://res.cloudinary.com/dsdg8ke2n/image/upload/f_auto,q_auto/pwfrfz0yoldcuxsmjerv')",
