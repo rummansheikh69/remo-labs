@@ -18,7 +18,7 @@ function Navbar() {
         </Link>
         <div className="hidden md:flex gap-8 text-sm">
           <a
-            href="https://dexscreener.com/solana/GS42orCDvPGJtLDPUtgnYUjtMaXk9si3wHc8e1Qrpump"
+            href="https://dexscreener.com/solana/6YaXag31ioCNyzzVmbm5qo9h493qiRxzWE1utJEBpump"
             target="_blank"
             className=" text-text hover:text-blue-400 transition"
           >
@@ -70,7 +70,7 @@ function Navbar() {
             {/* Sidebar content here */}
             <div className=" flex flex-col gap-3">
               <a
-                href="https://dexscreener.com/solana/GS42orCDvPGJtLDPUtgnYUjtMaXk9si3wHc8e1Qrpump"
+                href="https://dexscreener.com/solana/6YaXag31ioCNyzzVmbm5qo9h493qiRxzWE1utJEBpump"
                 target="_blank"
                 className=" text-text hover:text-blue-400 transition"
               >
