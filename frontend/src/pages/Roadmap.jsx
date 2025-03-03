@@ -19,7 +19,7 @@ function Roadmap() {
       description:
         "Deploy the token on pump.fun & conduct an initial airdrop for early supporters",
       status: "In Progress",
-      color: "#D0DCFF",
+      color: "#89adca",
       direction: "right",
     },
     {
@@ -66,7 +66,7 @@ function Roadmap() {
           {/* roadmap box */}
           <motion.div
             ref={roadmapBoxRef}
-            className="bg-white/30 backdrop-blur-sm rounded-lg p-8"
+            className="bg-white/60 backdrop-blur-sm rounded-lg p-8"
             initial={{ opacity: 0.7, scale: 0.95 }}
             animate={roadmapBoxControls}
           >

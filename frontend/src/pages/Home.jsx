@@ -26,9 +26,9 @@ const paragraphs = [
     },
 
     {
-      text: "2. [Contract Address]",
+      text: "2. GS42orCDvPGJtLDPUtgnYUjtMaXk9si3wHc8e1Qrpump",
       className: "text-lg text-text break-all",
-      link: "https://dexscreener.com/solana/",
+      link: "https://dexscreener.com/solana/GS42orCDvPGJtLDPUtgnYUjtMaXk9si3wHc8e1Qrpump",
     },
   ],
 ];
@@ -107,7 +107,7 @@ const Home = () => {
   return (
     <Layout>
       <div className="flex items-center justify-center min-h-screen max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col items-center bg-main/40 backdrop-blur-sm rounded-lg p-4 pr-20 max-w-full">
+        <div className="flex flex-col items-center bg-main/70 backdrop-blur-sm rounded-lg p-4 md:pr-16 max-w-full">
           <div className="p-4 flex items-center justify-start w-full">
             {stage === 0 && (
               <Typewriter
