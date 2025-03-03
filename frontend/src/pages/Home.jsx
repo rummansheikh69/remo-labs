@@ -26,9 +26,9 @@ const paragraphs = [
     },
 
     {
-      text: "2. GS42orCDvPGJtLDPUtgnYUjtMaXk9si3wHc8e1Qrpump",
+      text: "2. [Contract Address]",
       className: "text-lg text-text break-all",
-      link: "https://dexscreener.com/solana/GS42orCDvPGJtLDPUtgnYUjtMaXk9si3wHc8e1Qrpump",
+      link: "https://dexscreener.com/solana/",
     },
   ],
 ];
