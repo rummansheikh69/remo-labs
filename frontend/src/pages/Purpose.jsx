@@ -72,7 +72,7 @@ function Purpose() {
                       aria-label="close sidebar"
                       className="drawer-overlay"
                     ></label>
-                    <ul className="menu bg-base-200 text-base-content min-h-full w-52 p-4 pt-20">
+                    <ul className="menu bg-main text-base-content min-h-full w-52 p-4 pt-20">
                       {/* Sidebar content here */}
                       <div className=" block lg:hidden relative">
                         <h2 class="text-lg font-semibold text-gray-800 mb-4">
